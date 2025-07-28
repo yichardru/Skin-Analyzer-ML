@@ -1,7 +1,0 @@
-torch>=2.0
-torchvision
-timm
-matplotlib
-scikit-learn
-numpy
-opencv-python
