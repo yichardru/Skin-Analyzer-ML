@@ -5,7 +5,7 @@
 ## Overview
 
 - Accepts user-submitted skin images and body part labels  
-- Uses a fine-tuned EfficientNet-based model trained on the DermaNet dataset  
+- Uses a fine-tuned EfficientNet-based model trained on the DermNet dataset  
 - Classifies conditions across multiple dermatological categories  
 - Falls back to “Pass / No Pass” result if confidence is low or classification is uncertain  
 - Designed for lightweight deployment in virtual health monitoring systems  
