@@ -1,6 +1,6 @@
 # Cutis-1: AI-Powered Skin Condition Scanner
 
-*Cutis-1* is a proof-of-concept project that uses deep learning to analyze skin images and identify potential irregularities. Built as part of [PITTAN Inc.](https://pittan.co.jp)'s *Virtual Human Model* initiative, this prototype demonstrates the feasibility of non-intrusive skin diagnostics on edge devices.
+*Cutis-1* is a proof-of-concept project that uses deep learning to analyze skin images and identify potential irregularities. Built as part of [PITTAN Inc.](https://www.pittan.life/)'s *Virtual Human Model* initiative, this prototype demonstrates the feasibility of non-intrusive skin diagnostics on edge devices.
 
 ## Overview
 
@@ -24,7 +24,7 @@ This project is an early-stage prototype. While initial results show promise, th
 
 - **Model**: EfficientNet-B0 with transfer learning  
 - **Frameworks**: PyTorch, torchvision, timm  
-- **Data**: [DermaNet](https://github.com/Goltzmaniac/Dermnet-Classification) skin condition dataset  
+- **Data**: [DermNet](https://www.kaggle.com/datasets/shubhamgoel27/dermnet) skin condition dataset  
 - **Interface**: Command-line and image processing pipeline (UI TBD)  
 
 ## Disclaimer
